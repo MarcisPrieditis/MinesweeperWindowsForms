@@ -1,7 +1,7 @@
 # Minesweeper
 
 Made a mini project where base code was already given.<br/>
-<bold>What I learned during this project</bold>
+What I learned during this project:<br/>
 `Unit testing - i used XUnit`<br/>
 `This was first project of Windows Forms for me`<br/>
 `Little bit about Enums`<br/>
