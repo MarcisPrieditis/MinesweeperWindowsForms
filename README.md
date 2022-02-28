@@ -1,14 +1,27 @@
 # Minesweeper
 
 Made a mini project where base code was already given.<br/>
-<bold>What learned during this project</bold>
-`Unit testing - i used XUnit`
-`This was first project of Windows Forms for me`
-`Little bit about Enums`
+<bold>What I learned during this project</bold>
+`Unit testing - i used XUnit`<br/>
+`This was first project of Windows Forms for me`<br/>
+`Little bit about Enums`<br/>
 
 How to test it: <br/>
 
+Download project and go to:<br/>
+[Minesweeper/bin/Release](https://github.com/MarcisPrieditis/MinesweeperWindowsForms/tree/main/Minesweeper/bin/Release) <br/>
+Run **minesweeper.exe**<br/>
+
+Second way how to run project and change board size with mine count:<br/>
+1)Open **minesweeper.sln** solution file in Visual Studio<br/>
+2)![Run](https://user-images.githubusercontent.com/41679124/156057045-33291142-e6f2-4013-9547-0f888f415b1a.png) Press on Start<br/>
+3)Enjoy game :) PS. There is no restart function. If you **loose** or **win** you have to close window and start again <br/>
+
+How to change board size:<br/>
+1)Open **minesweeper.sln** solution file in Visual Studio<br/>
+2)Select **minesweeper.cs** file and double click on white board to open code<br/>
 ![mine1](https://user-images.githubusercontent.com/41679124/156051113-4b5131da-16e9-4e1b-90db-29da0527a84d.png)
+3)Change parameters as you wish like in picture - width, height, mine count on board
 ![mine2](https://user-images.githubusercontent.com/41679124/156051090-a9884302-2c71-4e33-a9af-fca8ad8bb21b.png)
 
 My result:
