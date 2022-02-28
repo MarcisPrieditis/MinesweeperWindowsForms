@@ -10,9 +10,6 @@ namespace Minesweeper.Core
         public int NumMines { get; set; }
         public Cell[,] Cells { get; set; }
 
-        // public CellProperties cellTest;
-        // public Cell Cell = new Cell();
-
         public Board(int width, int height, int mines)
         {
             this.Width = width;

@@ -13,7 +13,6 @@ namespace Minesweeper.Core
 
         public void SetupDesign()
         {
-            // this.BackColor = SystemColors.ButtonFace;
             this.Location = new Point(CellProp.XLoc * CellProp.CellSize, CellProp.YLoc * CellProp.CellSize);
             this.Size = new Size(CellProp.CellSize, CellProp.CellSize);
             this.UseVisualStyleBackColor = false;
