@@ -1,7 +1,21 @@
 # Minesweeper
 
-Create a classic minesweeper game, you are given some starting point already.
+Made a mini project where base code was already given.<br/>
+<bold>What learned during this project</bold>
+`Unit testing - i used XUnit`
+`This was first project of Windows Forms for me`
+`Little bit about Enums`
 
+How to test it: <br/>
+
+![mine1](https://user-images.githubusercontent.com/41679124/156051113-4b5131da-16e9-4e1b-90db-29da0527a84d.png)
+![mine2](https://user-images.githubusercontent.com/41679124/156051090-a9884302-2c71-4e33-a9af-fca8ad8bb21b.png)
+
+My result:
+![Minesweeper](https://user-images.githubusercontent.com/41679124/156051142-37cf7d75-99fa-469b-826b-ed452a1379ee.png)
+
+
+Create a classic minesweeper game, you are given some starting point already.
 ![Minesweeper](./minesweeper.png "Minesweeper")
 
 ## Requirements
